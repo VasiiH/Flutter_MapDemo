@@ -1,0 +1,6 @@
+package com.codex.flutter_app_mapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
